@@ -1,4 +1,4 @@
-# Message Queuing System
+# ImageCrunch
 
 This is a message queuing system implemented in Go programming language and RabbitMQ. The system comprises of an API, a Producer, and a Consumer.
 
